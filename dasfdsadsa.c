@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    prinf("Hello, Git!")
+    prinf("Hello, Git!");
 }
