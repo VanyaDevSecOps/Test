@@ -2,5 +2,8 @@
 
 int main(void)
 {
-    prinf("Hello, Git!");
+    while(1 == 1)
+    {
+        printf("Natali kisil 1337")
+    }
 }
