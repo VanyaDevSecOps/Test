@@ -1,0 +1,7 @@
+branch_protection:
+  - policies:
+      - target: "main"
+        messages: "Suka idi nahui yebok suka "
+        rules:
+          - prevent_force_pushes
+          - prevent_deletion
