@@ -4,6 +4,6 @@ int main(void)
 {
     while(1 == 1)
     {
-        printf("Natali kisil 1337")
+        printf("Natali kisil 1337\n");
     }
 }
